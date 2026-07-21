@@ -1,6 +1,6 @@
 # Reverse Engineering the T-We Remote Control (RC3794103 / RC3794104/01BR)
 
-![T-We Remote Control PCB Teardown](images/IMG_0325.jpg)
+![T-We Remote Control PCB Teardown](images/IMG_0325.JPEG)
 
 ## 📌 Overview
 
